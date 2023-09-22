@@ -27,7 +27,6 @@ export default {
     },
     methods: {
         submitFeedback() {
-            // Handle form submission logic here
             console.log(this.email, this.feedback);
         }
     }
